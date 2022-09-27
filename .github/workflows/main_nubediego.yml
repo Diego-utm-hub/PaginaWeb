@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'NubeDiego'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B2E2E91D7BD64ADCBD8E6F9178A71DED }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9591BC55DC2E44EB89FD15A2AA73750F }}
           package: .
